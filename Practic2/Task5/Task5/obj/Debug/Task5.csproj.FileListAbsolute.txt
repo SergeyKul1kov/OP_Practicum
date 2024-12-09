@@ -1,0 +1,7 @@
+F:\Lessons C#\Practic2\Task5\Task5\bin\Debug\Task5.exe.config
+F:\Lessons C#\Practic2\Task5\Task5\bin\Debug\Task5.exe
+F:\Lessons C#\Practic2\Task5\Task5\bin\Debug\Task5.pdb
+F:\Lessons C#\Practic2\Task5\Task5\obj\Debug\Task5.csproj.AssemblyReference.cache
+F:\Lessons C#\Practic2\Task5\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
+F:\Lessons C#\Practic2\Task5\Task5\obj\Debug\Task5.exe
+F:\Lessons C#\Practic2\Task5\Task5\obj\Debug\Task5.pdb
