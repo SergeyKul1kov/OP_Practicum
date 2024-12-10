@@ -1,0 +1,7 @@
+F:\Lessons C#\Practic3\bin\Debug\Practic3.exe.config
+F:\Lessons C#\Practic3\bin\Debug\Practic3.exe
+F:\Lessons C#\Practic3\bin\Debug\Practic3.pdb
+F:\Lessons C#\Practic3\obj\Debug\Practic3.csproj.AssemblyReference.cache
+F:\Lessons C#\Practic3\obj\Debug\Practic3.csproj.CoreCompileInputs.cache
+F:\Lessons C#\Practic3\obj\Debug\Practic3.exe
+F:\Lessons C#\Practic3\obj\Debug\Practic3.pdb
